@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React_Projects.github.io/static/css/main.32e2361f.css",
-    "main.js": "/React_Projects.github.io/static/js/main.b3aa7f91.js",
-    "static/js/787.63e47474.chunk.js": "/React_Projects.github.io/static/js/787.63e47474.chunk.js",
-    "index.html": "/React_Projects.github.io/index.html",
-    "main.32e2361f.css.map": "/React_Projects.github.io/static/css/main.32e2361f.css.map",
-    "main.b3aa7f91.js.map": "/React_Projects.github.io/static/js/main.b3aa7f91.js.map",
-    "787.63e47474.chunk.js.map": "/React_Projects.github.io/static/js/787.63e47474.chunk.js.map"
+    "main.css": "/React_Projects/static/css/main.32e2361f.css",
+    "main.js": "/React_Projects/static/js/main.96024141.js",
+    "static/js/787.63e47474.chunk.js": "/React_Projects/static/js/787.63e47474.chunk.js",
+    "index.html": "/React_Projects/index.html",
+    "main.32e2361f.css.map": "/React_Projects/static/css/main.32e2361f.css.map",
+    "main.96024141.js.map": "/React_Projects/static/js/main.96024141.js.map",
+    "787.63e47474.chunk.js.map": "/React_Projects/static/js/787.63e47474.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.32e2361f.css",
-    "static/js/main.b3aa7f91.js"
+    "static/js/main.96024141.js"
   ]
 }
