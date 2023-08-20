@@ -1,0 +1,41 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    width: 430px;
+    height: 550px;
+    background-color:rgb(255, 255, 255, 0.1) ;
+    border-radius: 20px;
+}
+.to-do-btn {
+    font-size: xx-large;
+    margin: 5px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;                  
+}
+.btn-container {
+    width: 390px;
+    height: 50px;
+}
+
+.result-container {
+    text-align: right;
+    font-size: 60px;
+    height: 70px;
+    width: 330px;
+    color: rgb(255, 255, 255);
+    margin-bottom: 10px;
+}
+.grey-btn{
+    background-color:rgb(80, 80, 80);
+}
+.orange-btn {
+    background-color: rgb(255, 149, 0)
+}
+.white-btn{
+    background-color: rgb(212, 212, 210);
+}   
+#x-btn-width {
+    width: 165px;
+}
